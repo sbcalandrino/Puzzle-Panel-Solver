@@ -1,0 +1,5 @@
+# .vs file from visual studio
+.vs/
+
+# debug folders since they don't have anything important
+**/Debug/
